@@ -14,6 +14,7 @@ Roadmap
 - Use git-flow
 - Write build and contribution instructions
 - Start the app
+- Figure out why @swarming and the LICENSE README links aren't working
 
 License
 -------
