@@ -1,6 +1,6 @@
 {
   "name": "app-kit",
-  "namespace": "appkit",
+  "namespace": "taskly",
   "APIMethod": "stub",
   "proxyURL": "http://localhost:8000",
   "version": "0.0.0",

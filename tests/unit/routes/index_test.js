@@ -1,4 +1,4 @@
-import Index from 'appkit/routes/index';
+import Index from 'taskly/routes/index';
 
 var route;
 module("Unit - IndexRoute", {

@@ -7,11 +7,11 @@ function isolatedContainer(fullNames) {
   container.optionsForType('view', { singleton: false });
   container.optionsForType('template', { instantiate: false });
   container.optionsForType('helper', { instantiate: false });
-  
+
   var resolver = Resolver['default'].create();
 
   resolver.namespace = {
-    modulePrefix: 'appkit'
+    modulePrefix: 'taskly'
   };
 
   for (var i = fullNames.length; i > 0; i--) {
